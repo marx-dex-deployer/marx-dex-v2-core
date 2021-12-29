@@ -1,18 +1,19 @@
 {
-  "name": "@uniswap/v2-core",
-  "description": "🎛 Core contracts for the UniswapV2 protocol",
+  "name": "@marx-dex/v2-core",
+  "description": "🎛 Core contracts for the MarX Decentralized Exchange protocol",
   "version": "1.0.1",
-  "homepage": "https://uniswap.org",
+  "homepage": "https://gameland.cc",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/uniswap-v2-core"
+    "url": "https://github.com/marx-dex-deployer/marx-dex-v2-core"
   },
   "keywords": [
-    "uniswap",
+    "marx-dex",
+    "evmos",
     "ethereum",
     "v2",
     "core",
-    "uniswap-v2"
+    "marx-dex-v2"
   ],
   "files": [
     "contracts",

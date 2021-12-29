@@ -1,6 +1,7 @@
 {
   "compilerVersion": "./node_modules/solc",
   "outputType": "all",
+  "sourceDirectory": "/home/marx/marx-dex/marx-dex-v2-core/contracts/",
   "compilerOptions": {
     "outputSelection": {
       "*": {
@@ -9,8 +10,7 @@
           "evm.deployedBytecode.object",
           "abi",
           "evm.bytecode.sourceMap",
-          "evm.deployedBytecode.sourceMap",
-          "metadata"
+          "evm.deployedBytecode.sourceMap"
         ],
         "": ["ast"]
       }
