@@ -20,3 +20,12 @@ The following assumes the use of `node@>=10`.
 ## Run Tests
 
 `yarn test`
+
+## Contracts deployed to evmos testnet
+
+- [MarXDEXV2Factory contract](https://evm.evmos.org/address/0x534022D5a24b90f25899F204307033ED27969326/contracts)
+
+## Run scripts
+
+`truffle exec scripts/create_pairs.js --network evmos`
+`truffle exec scripts/test_factory_contract.js --network evmos`

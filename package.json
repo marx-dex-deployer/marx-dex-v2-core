@@ -1,7 +1,7 @@
 {
   "name": "@marx-dex/marx-dex-v2-core",
   "description": "🎛 Core contracts for the MarX Decentralized Exchange protocol",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://gameland.cc",
   "repository": {
     "type": "git",
